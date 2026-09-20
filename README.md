@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack & Công Cụ
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,git,github,eclipse,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,js,git,github,eclipse,vscode" alt="My Skills" />
 </p>
 
 ### 📊 Thống Kê Lập Trình
