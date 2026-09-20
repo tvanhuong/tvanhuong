@@ -10,4 +10,4 @@
 </p>
 
 ### 📊 Thống Kê Lập Trình
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvanhuong&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tvanhuong&theme=tokyonight&hide_border=true)
