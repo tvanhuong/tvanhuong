@@ -10,6 +10,4 @@
 </p>
 
 ### 📊 Thống Kê Lập Trình
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tvanhuong&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvanhuong&show_icons=true&theme=tokyonight&hide_border=true)
